@@ -1,0 +1,11 @@
+1.)
+in linux,
+we should give only one command in command line .
+that is "diff -u file1 file2"
+this will demonstrate differences between codes of two files.
+so, u can fix bugs by above method.
+2.)
+efficent programmer.
+i don't know
+3.)git log is useful when we want to view whole histroy about every commit like when the commit created and who is author of this commit.
+while, we use git diff command to know changes between two commits.
