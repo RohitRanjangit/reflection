@@ -1,0 +1,2 @@
+1.) a directory will created in present directory named ".git".
+to tell my machine that this git repository
