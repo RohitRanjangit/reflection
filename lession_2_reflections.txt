@@ -1,2 +1,24 @@
 1.) a directory will created in present directory named ".git".
 to tell my machine that this git repository
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+ans - might be files in staging area are being tracked by git, while files in working directory which is not in staging area might not be tracked by git.
+
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+since, i would add only one file to staging area after modifiaction.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+making new branch is quite helpful, like if i want to update the version of my repository but i'm not sure that it will work.
+
+How do the diagrams help you visualize the branch structure?
+basically,diagram show the commits with braches in which it exist.and parent commit of each commit.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
