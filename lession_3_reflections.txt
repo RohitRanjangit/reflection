@@ -3,9 +3,7 @@ local?
 if i have created a repository for some project, and want to keep it as open-source.so,that other people can contribute.
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
-
-    Fill in your answer here
-
+if i would contributing on a open-source project. and a new version of that has broken. then, till i don't want to pull from remote untill the bug is fixed if any bug is present in broken code.
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
