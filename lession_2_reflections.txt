@@ -19,6 +19,8 @@ basically,diagram show the commits with braches in which it exist.and parent com
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+merging of branches means merging of commits of two branches to master branch.we often represent using diagram because from diagram we could understand easily in no time.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+automatic merging reduce efforts when one code would quite obivious that it should be added but automatic may results in undesired merging. while merging manually is good,since everytime we have to check and differtiate those codes and we will take appropriate one.
