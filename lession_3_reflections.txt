@@ -17,8 +17,7 @@ If I am about to go without Internet access for a while, for example to work
     remote version is at some point, I have an easy way to access it.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-
-    Fill in your answer here
+without using github, it is difficult to collaborating with team, each time in every change of slight code we would make a new file for this. at end of project we may have a large number of files. and it is cumbersome delete those files which contains we don't want.while using git or github there is no problem like that.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
