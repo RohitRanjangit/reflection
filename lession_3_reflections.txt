@@ -21,5 +21,4 @@ without using github, it is difficult to collaborating with team, each time in e
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+when i'm not sure about particuar code or when i want to do experiment on code.or, using github pull request feature, want feedback of other person on my code.
